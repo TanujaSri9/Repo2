@@ -1,0 +1,6 @@
+Name : K.Tanuja Sri
+Course : BCA
+I have learnt a new things about GitHub which includes:
+* Creating a new repository
+* Uploading Files into my repo
+* Modifying the existing files in my repo
